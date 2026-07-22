@@ -1,9 +1,6 @@
-## Hi there 👋
-
+## uhhh
 <!--
 **trouschen/trouschen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img width="638" height="289" alt="orochimaru2" src="https://github.com/user-attachments/assets/f6795d8f-6ae1-4f94-9620-3a183de54eab" />
 
 Here are some ideas to get you started:
 
