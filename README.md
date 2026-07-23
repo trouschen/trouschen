@@ -8,4 +8,5 @@
   <a href="https://www.patreon.com/c/2trouscen">patreon</a>
   <a href="https://open.spotify.com/user/31zjerpzavogicsyb62f7fj64kuq?si=55db9b0940da4fef">spotify</a>
 <br>
+  
 <img src="https://raw.githubusercontent.com/trouschen/trouschen/main/a0265984cc59afb84831901400453295e51bbaa6/sakura%20gif.gif" alt="gif" width="100%" />
