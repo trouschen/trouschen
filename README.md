@@ -2,7 +2,7 @@
 
 <div align="center">hellooo</p>
 <p>there's not much to see here... ( ˊᵕˋ ; ) </p>
-<p>i'm not that active on github, so check out my other socials instead!</p> </div>
+<p>i'm not too active on github, so check out my other socials instead!</p> </div>
 <br>
 <p align="center">
   <a href="https://www.patreon.com/c/2trouscen">patreon</a>
