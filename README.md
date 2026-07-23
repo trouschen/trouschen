@@ -1,1 +1,1 @@
-![image alt](https://github.com/trouschen/trouschen/blob/36284244d2ada6f6320578b1981b01971e4d4d48/polka%20dot.jpg)
+![image alt](https://github.com/trouschen/trouschen/blob/main/56997251efc58907f256159b2d8c3ae3.gif)
