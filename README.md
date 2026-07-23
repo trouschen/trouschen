@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/trouschen/trouschen/main/56997251efc58907f256159b2d8c3ae3.gif" alt="gif" width="100%" />
 
 <div align="center">hellooo</p>
-<p>i don't actually use github that much, so</p>
-<p>check out my other socials!</p> </div>
+<p>i don't actually use github that much, so here's where you can find me instead!</p> </div>
 <br>
 <p align="center">
   <a href="https://www.patreon.com/c/2trouscen">patreon</a>
