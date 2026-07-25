@@ -5,7 +5,7 @@
 <p>i'm not too active on github, so check out my other socials instead!</p> </div>
 <br>
 <p align="center">
-  <a href="[https://www.patreon.com/c/2trouscen](https://patreon.com/2trouscen?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)">patreon</a>
+  <a href="https://patreon.com/2trouscen">patreon</a>
   <a href="https://open.spotify.com/user/31zjerpzavogicsyb62f7fj64kuq?si=55db9b0940da4fef">spotify</a>
 <br>
 <img src="https://raw.githubusercontent.com/trouschen/trouschen/main/sakura%20gif.gif" />
