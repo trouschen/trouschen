@@ -7,5 +7,3 @@
 <p align="center">
   <a href="https://patreon.com/2trouscen">patreon</a>
   <a href="https://open.spotify.com/user/31zjerpzavogicsyb62f7fj64kuq?si=55db9b0940da4fef">spotify</a>
-<br>
-<img src="https://raw.githubusercontent.com/trouschen/trouschen/main/sakura%20gif.gif" />
